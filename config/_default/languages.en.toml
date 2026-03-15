@@ -15,7 +15,7 @@ title = "Alexander Seda"
 [params.author]
   name = "Alexander Seda"
   image = "img/alex-seda.jpg"
-  headline = "Web Application Developer | Systems Engineer"
+  headline = "Faith • Tech • Music"
   # bio = "A little bit about you"
   links = [
     { email = "mailto:alexander.seda@outlook.com" },
