@@ -31,7 +31,7 @@
 #  weight = 30
 
 [[main]]
-  name = "About"
+  name = "About Me"
   pageRef = "about"
   weight = 40
 

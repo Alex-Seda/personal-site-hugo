@@ -4,4 +4,6 @@ showDate: false
 showReadingTime: false
 ---
 
-This is a bio page
+## My name is Alex
+
+I am a full stack web developer

@@ -1,0 +1,40 @@
+/* Custom scheme - Gray (#2A2D34), Tan (#B2AA8E), Green (#0D5836) */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Dark Gray shades - based on #2A2D34 */
+  --color-neutral-50: 245, 246, 247;
+  --color-neutral-100: 235, 237, 239;
+  --color-neutral-200: 215, 218, 222;
+  --color-neutral-300: 180, 184, 190;
+  --color-neutral-400: 130, 135, 143;
+  --color-neutral-500: 85, 91, 100;
+  --color-neutral-600: 58, 62, 70;
+  --color-neutral-700: 42, 45, 52;
+  --color-neutral-800: 34, 36, 42;
+  --color-neutral-900: 26, 28, 33;
+  --color-neutral-950: 18, 20, 24;
+  /* Green shades - based on #0D5836 for highlights */
+  --color-primary-50: 236, 245, 240;
+  --color-primary-100: 217, 235, 225;
+  --color-primary-200: 178, 215, 195;
+  --color-primary-300: 128, 186, 157;
+  --color-primary-400: 75, 145, 110;
+  --color-primary-500: 35, 109, 73;
+  --color-primary-600: 13, 88, 54;
+  --color-primary-700: 10, 70, 43;
+  --color-primary-800: 8, 56, 34;
+  --color-primary-900: 7, 46, 28;
+  --color-primary-950: 4, 28, 17;
+  /* Tan shades - based on #B2AA8E */
+  --color-secondary-50: 248, 247, 244;
+  --color-secondary-100: 241, 239, 233;
+  --color-secondary-200: 227, 223, 210;
+  --color-secondary-300: 209, 203, 182;
+  --color-secondary-400: 186, 178, 150;
+  --color-secondary-500: 178, 170, 142;
+  --color-secondary-600: 158, 149, 120;
+  --color-secondary-700: 130, 122, 98;
+  --color-secondary-800: 104, 98, 78;
+  --color-secondary-900: 85, 80, 64;
+  --color-secondary-950: 51, 48, 38;
+}
