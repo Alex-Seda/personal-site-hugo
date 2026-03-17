@@ -5,4 +5,4 @@ draft = false
 groupByYear = false
 +++
 
-Here I post about various topics. From tech to philosophy, music, and faith, explore my thoughts below!
+Notes on coding and life.
