@@ -6,4 +6,4 @@ showDate = false
 groupByYear = false
 +++
 
-Below are the projects that I have worked on!
+Various projects I have worked on.
