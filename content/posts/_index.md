@@ -5,4 +5,4 @@ draft = false
 groupByYear = false
 +++
 
-Notes on coding and life.
+Notes about various things.

@@ -8,6 +8,6 @@ showHeadingAnchors: false
 
 ## My name is Alex
 
-I am a software engineer specializing in full stack development. I love everything about technology, from tinkering with old computers to developing and deploying applications. 
+I am a software engineer specializing in full stack development. I find technology fasinating, from tinkering with old computers to developing and deploying applications. 
 
 Outside of computers, I enjoy spending time with my Church family, reading, playing music, and exploring cognitive psychology.
