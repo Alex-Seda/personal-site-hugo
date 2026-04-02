@@ -11,12 +11,12 @@ One of my hobbies is home labbing with old hardware. I love taking something tha
 
 Remote access is secured via VPN. I take security very seriously and have been intentionally careful to not expose my home network.
 
-Below is a list of my current home lab setup:
+Below is a breakdown of my current home lab setup:
 
 ## Desktop Computer
 - 2014 iMac
 - Arch Linux
-- Riced Hyperland setup (matches laptop theme)
+- Fully Customized Hyperland setup (matches laptop theme)
 - Daily Driver Desktop
 
 ## Lab Hypervisor
@@ -25,10 +25,10 @@ Below is a list of my current home lab setup:
 - Accessible via Tailscale
 - Used for:
     - Classes when an isolated environment is needed
-    - Running a project that I would like to use various devices to work on without replicating an environment
+    - Spinning up VMs for projects when I want a single environment accessible from multiple devices
     - Experimenting with other OSes in a low risk environment
-    - Used to run a DNS filter (PiHole)
-    - Other expirements
+    - At one time, ran a DNS filter (PiHole)
+    - Other assorted expirements
 
 ## File Server
 - 2012 Dell XPS 14 Laptop
@@ -48,4 +48,4 @@ Below is a list of my current home lab setup:
 
 ## Self Hosted AI Model
 - *Tentative project*
-- Still running numbers, but would like to have a newer, more powerful computer for running my own "ChatGPT" but trained exactly for my use cases (cheaper than paying subscriptions and data stays private)
+- Still running numbers, but would like to have a newer, more powerful computer for running my own local AI model but trained exactly for my use cases (cheaper than paying subscriptions and data stays private)
