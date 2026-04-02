@@ -1,2 +1,6 @@
+# Build output directories
 public/
 resources/
+
+# Other files
+.hugo_build.lock

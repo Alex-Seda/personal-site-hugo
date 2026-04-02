@@ -3,6 +3,7 @@ title: FitSync
 showSummary: true
 summary: Fitness Tracker App developed for a Software Engineering course
 showDate: false
+draft: True
 showReadingTime: false
 ---
 
