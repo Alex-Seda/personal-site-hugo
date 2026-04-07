@@ -18,6 +18,7 @@ title = "Alexander Seda"
   headline = "Faith • Tech • Music"
   # bio = "A little bit about you"
   links = [
+    { resume = "/files/Alexander_Seda_Resume.pdf" },
     { email = "mailto:alexander.seda@outlook.com" },
     { facebook = "https://www.facebook.com/profile.php?id=100089731850680" },
     { github = "https://github.com/Alex-Seda" },
