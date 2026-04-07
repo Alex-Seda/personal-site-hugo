@@ -1,5 +1,5 @@
 ---
-title: The Case for Linux
+title: Is Linux Worth Your Time?
 showDate: false
 draft: True
 showReadingTime: false
