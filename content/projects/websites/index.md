@@ -1,7 +1,7 @@
 ---
 title: Websites
 showSummary: true
-summary: List of websites I have deployed and manage
+summary: Description of websites I have developed, deployed, and continue to manage
 showDate: false
 showReadingTime: false
 showHeadingAnchors: false

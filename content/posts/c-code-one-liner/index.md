@@ -4,6 +4,7 @@ date: 2026-04-06
 draft: false
 showReadingTime: true
 showHeadingAnchors: false
+showSummary: true
 summary: "Exploring legacy C features, octal literals, and program startup mechanics through a deliberately unreadable one-line program."
 ---
 
