@@ -1,7 +1,7 @@
 ---
 title: "Amusing Ourselves to Death"
 date: 2026-04-10
-draft: false
+draft: true
 showReadingTime: true
 showHeadingAnchors: false
 showSummary: true
