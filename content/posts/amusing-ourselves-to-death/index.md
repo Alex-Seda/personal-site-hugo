@@ -73,5 +73,5 @@ Their witnesses were not loud, but consistent.
 Likewise, our response should be neither apathy nor outrage, but deliberate living. 
 We must first recognize how our own habits are being shaped, then deliberately reshape our lives to be filled with depth, discipline, and truth. 
 
-Only then are we able to invite others, not be force of argument, but by example, to step outside of the noise.
+Only then are we able to invite others, not by force of argument, but by example, to step outside of the noise.
 
