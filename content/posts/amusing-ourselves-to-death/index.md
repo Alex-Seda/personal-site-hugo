@@ -12,7 +12,7 @@ Information is never consumed in a vacuum.
 
 All information is passed through a medium, whether written text, spoken word, body language, visual art, music, or video. Each medium affects the message being conveyed in a different way. 
 
-For example, if you are agreeing to an important contract, you will want that in writing, instead of just a verbal agreement. 
+For example, if you are agreeing to an important contract, you will want that in writing, as opposed to just a verbal agreement. 
 Why? The same information is being conveyed either way, is it not? 
 To the contrary, we all understand that written words carry more weight, authority, and permanence than spoken ones. 
 Similarly, other mediums, namely television and social media, have an impact on the messages being conveyed through them, and it is often a larger impact than we realize.
@@ -35,11 +35,11 @@ This way of conveying information is completely different from how information w
 
 ## The Impact on Politics
 
-To highlight its impact on discourse, consider how politics were conducted before being introduced into television. 
+To highlight this impact on discourse, consider how politics were conducted before being introduced into television. 
 Political discourse used to consist of lengthy, respectful debates, and listeners were expected to intellectually engage with the topics being presented. 
 In fact, Postman recounts one particular debate between Lincoln and Douglas where Douglas talked for over 3 hours, then Lincoln told the audience to take a recess for dinner before returning to hear his equally long rebuttle. 
 
-Both candidates expected that their audience was capable of holding complex ideas in their head as the candidate built his argument over the course of hours. 
+Both candidates expected that their audience was capable of retaining complex ideas in their head as the candidate built his argument over the course of hours. 
 Not only that, but the candidates expected the audience to be swayed by the logical structure and reasoning of their position, not by any argument regarding the other candidate's character.
 
 Television has not only shortened the public’s attention span for such content, but also eroded the habits of critical thinking required to analyze it.
@@ -47,18 +47,31 @@ Now, we expect our politics to be entertaining, and a one hour presidential deba
 The result is a country that fractures easily over emotional appeals while remaining largely uninformed about the issues actually being decided upon.
 
 
-## Conclusion
+## Summary
 
 Politics serves as only one example of Postman’s broader argument: once discourse is shaped primarily by entertainment, every serious subject must adapt to the expectations of the medium.
 Religion, education, and public conversation alike begin to favor immediacy, emotional appeal, and simplicity over depth and reflection.
 
 Postman talks about many more subjects, like the Literary Epidemic, and I would highly recommend that you read his book for yourself. 
 While his book was written in 1985, it is arguably more relevant today than when it was initially written.
-The issue we are facing today is that modern mediums of information are intentionally designed against our best interests to reinforce the tendencies mentioned above, all in the best interests of the stake holders. 
+Modern media platforms are not neutral channels of communication.
+They are engineered to capture attention, reward distraction, and reinforce the very tendencies Postman described, often at the expense of truth.
 
-The liklihood of a large-scale departure from this is small, but that is not the point.
-Rather, we are responsible for our lives and how we think.
-We are to live within our abilities to make a difference, 
-We see throughout the New Testament that Christians are not instructed to revolt against their government, despite it being oppressive.
-it is still within our abilities to individually disengage as we see fit.
+
+## Our Response
+
+It is unlikely that the media or our culture will have some dramatic reversal of values.
+Cultural incentives remain aligned with entertainment, not contemplation.
+If meaningful change were to occur, it would not begin at the institutional level, but the personal one.
+
+Scripture consistently reflects this pattern.
+God's people rarely transform culture through dominance and spectaclectacle. 
+We see this in Daniel's maintained integrity throughout the Babylonian captivity (Daniel 6:3-4,10). 
+We also see Peter's instructions to the first century Church to live honorably among others (1 Peter 2:13-17).
+Their witnesses were not loud, but consistent.
+
+Likewise, our response should be neither apathy nor outrage, but deliberate living. 
+We must first recognize how our own habits are being shaped, then deliberately reshape our lives to be filled with depth, discipline, and truth. 
+
+Only then are we able to invite others, not be force of argument, but by example, to step outside of the noise.
 
