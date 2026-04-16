@@ -108,7 +108,7 @@ This section just casts the following array of numbers into an array of characte
 ```
 Finally, the digits in the array! If you have ever seen jokes about how "010 == '8'" in Javascript returns true, this is actually where that came from, and that statement would return true in C too!
 
-We are familiar with base 10 numbers being represented as normal numbers in coding, and likely we are all familiar with many languages using "0x" as a prefix to denote base 16, or hexidecimal, numbers. Similarly, C has a prefix for base 8, or octal, that just happens to be "0", without the "x"!
+We are familiar with base 10 numbers being represented as normal numbers in coding, and likely we are all familiar with many languages using "0x" as a prefix to denote base 16, or hexadecimal, numbers. Similarly, C has a prefix for base 8, or octal, that just happens to be "0", without the "x"!
 
 Since Javascript is a combination of many different programming ideas and language conventions, it inherited this prefix notation from C, which can lead to confusion if you accidentally have a leading zero on a number.
 
