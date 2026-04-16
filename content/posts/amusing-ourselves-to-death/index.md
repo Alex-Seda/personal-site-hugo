@@ -56,9 +56,9 @@ Postman talks about many more subjects, like the Literary Epidemic, and I would 
 While his book was written in 1985, it is arguably more relevant today than when it was initially written.
 The issue we are facing today is that modern mediums of information are intentionally designed against our best interests to reinforce the tendencies mentioned above, all in the best interests of the stake holders. 
 
-While the liklihood of a large-scale departure from this is small, it is still within our abilities to individually disengage as we see fit.
-1 Peter 2:13a says, "Be subject for the Lord's sake to every human institution", and Romans 12:18 says, "If possible, so far as it depends on you, live peacably with all."
-Clearly, the Biblical precedence for our response is to submit to the authorities that God has permitted to rule, yet to strive to make the best decisions for our spititual, intellectual, and physical wellbeing within those constraints.
-
-For further discussion on why God allows evil world powers and world leaders to exist, see this post: *(Coming Soon!)*
+The liklihood of a large-scale departure from this is small, but that is not the point.
+Rather, we are responsible for our lives and how we think.
+We are to live within our abilities to make a difference, 
+We see throughout the New Testament that Christians are not instructed to revolt against their government, despite it being oppressive.
+it is still within our abilities to individually disengage as we see fit.
 
