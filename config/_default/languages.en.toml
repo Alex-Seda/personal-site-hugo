@@ -15,7 +15,7 @@ title = "Alexander Seda"
 [params.author]
   name = "Alexander Seda"
   image = "img/alex-seda.jpg"
-  headline = "Faith • Tech • Music"
+  headline = "Faith • Tech • Reflection"
   # bio = "A little bit about you"
   links = [
     { resume = "/files/Alexander_Seda_Resume.pdf" },
