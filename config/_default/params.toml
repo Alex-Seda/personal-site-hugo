@@ -21,7 +21,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/favicon.jpg"
+  # logo = "favicon-32x32.png"
   showTitle = true
 
 [footer]
@@ -44,14 +44,15 @@ fingerprintAlgorithm = "sha256"
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  showHeadingAnchors = true
+  showHeadingAnchors = false
   showPagination = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = false
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
   showComments = false
+  showSummary = true
   # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
@@ -59,7 +60,7 @@ fingerprintAlgorithm = "sha256"
   showSummary = true
   showTableOfContents = false
   showTaxonomies = true
-  groupByYear = true
+  groupByYear = false
   paginationWidth = 1
 
 [sitemap]

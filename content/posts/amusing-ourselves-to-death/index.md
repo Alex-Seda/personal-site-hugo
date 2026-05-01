@@ -1,10 +1,6 @@
 ---
 title: "Amusing Ourselves to Death"
 date: 2026-04-15
-draft: false
-showReadingTime: true
-showHeadingAnchors: false
-showSummary: true
 tags: ['reflection']
 summary: "Discussion of ideas from *\"Amusing Ourselves to Death\"* by Neil Postman."
 ---
