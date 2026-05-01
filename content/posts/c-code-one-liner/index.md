@@ -5,6 +5,7 @@ draft: false
 showReadingTime: true
 showHeadingAnchors: false
 showSummary: true
+tags: ['coding']
 summary: "Exploring legacy C features, octal literals, and program startup mechanics through a deliberately unreadable one-line program."
 ---
 

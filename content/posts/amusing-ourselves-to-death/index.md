@@ -5,6 +5,7 @@ draft: false
 showReadingTime: true
 showHeadingAnchors: false
 showSummary: true
+tags: ['reflection']
 summary: "Discussion of ideas from *\"Amusing Ourselves to Death\"* by Neil Postman."
 ---
 
