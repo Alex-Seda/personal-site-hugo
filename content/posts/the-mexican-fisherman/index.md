@@ -8,6 +8,8 @@ summary: "A parable about prioties."
 
 I don't take credit for this parable, but I found it interesting.
 
+---
+
 ## The Mexican Fisherman
 
 An American investment banker was at the pier of a small coastal Mexican village when a small boat with just one fisherman docked.
@@ -30,7 +32,7 @@ You would need to leave this small coastal fishing village and move to Mexico Ci
 
 The Mexican fisherman asked, “But, how long will this all take?”
 
-To which the American replied, “15 – 20 years.”
+To which the American replied, “15 to 20 years.”
 
 “But what then?” Asked the Mexican.
 
@@ -43,8 +45,7 @@ Move to a small coastal fishing village where you would sleep late, fish a littl
 
 ---
 
-I often find myself focusing so much on the next thing in life and forgetting to enjoy where I am at now.
-I tell myself that I just need to work a little harder, and then I will be able to enjoy the benefits of my work.
+It is easy to always focus on the next thing.
 
 Stuff about God's intent for our life on this Earth???
 
