@@ -55,7 +55,7 @@ Instead, we can just do what the header file would be included for, and prototyp
 - The "exit" function is included in the "stdlib.h" system header file
 - The "printf" function is included in the "stdio.h" system header file
 
-C files natively include certain general use header files, like "stdlib.h" and "stdio.h", so all we need to do is prototype the functions with the correct arguments to inform the compile that we intend to use these two functions.
+C files natively include certain general use header files, like "stdlib.h" and "stdio.h", so all we need to do is prototype the functions with the correct arguments to inform the compiler that we intend to use these two functions.
 
 ### Program Entry
 ```c
