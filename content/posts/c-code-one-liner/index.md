@@ -35,7 +35,7 @@ Or even simpler, like this:
 #include <stdio.h>
 #include <stdlib.h>
 
-int maini(){
+int main(){
     printf("%s","C is cool");
     exit(0);
 }
