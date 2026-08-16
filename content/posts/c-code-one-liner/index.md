@@ -35,7 +35,7 @@ Or even simpler, like this:
 #include <stdio.h>
 #include <stdlib.h>
 
-int maini(){
+int main(){
     printf("%s","C is cool");
     exit(0);
 }
@@ -51,17 +51,19 @@ void exit(int status);int printf(const char *, ...);
 ```
 If we include header files, then they will all need their own respective lines, but we want this as unreadable as possible, so we cannot have that.
 
-So, we can just do what the header file would be included for, and prototype the functions ourselves. 
+Instead, we can just do what the header file would be included for, and prototype the functions ourselves. 
 - The "exit" function is included in the "stdlib.h" system header file
 - The "printf" function is included in the "stdio.h" system header file
+
+C files natively include certain general use header files, like "stdlib.h" and "stdio.h", so all we need to do is prototype the functions with the correct arguments to inform the compiler that we intend to use these two functions.
 
 ### Program Entry
 ```c
 int _start()
 ```
-This function is what C programs first enter, and it is this function that calls the "main" function. 
+When you run a C program, the "_start" function is the default entry point. 
 
-Normally, the "_start" function is used to set up memory allocations and initialize some standard libraries, however, we can preempt that behavior by defining "_start()" ourselves. This is why we need the "-nostartfiles" flag in our compile statement, so that the compiler will not use the default "_start()" function.
+Normally, the "_start" function is predefined and used to set up memory allocations, along with initializing some standard libraries. However, we can preempt that behavior by defining "_start()" ourselves. This is why we need the "-nostartfiles" flag in our compile statement, so that the compiler will not use the default "_start()" function.
 
 This serves no functional purpose aside from making our code less readable and demonstrating that we can run a valid C program without using "main"!
 
