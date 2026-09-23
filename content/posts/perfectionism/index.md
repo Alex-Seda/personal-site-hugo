@@ -5,6 +5,12 @@ tags: ['reflection']
 summary: '"When we wait until we are ready, we will be waiting for the rest of our lives." - Lemony Snicket'
 ---
 
+> When we wait until we are ready, we will be waiting for the rest of our lives. 
+
+<cite>- Lemony Snicket
+
+<br><br><br>
+
 "What is the best opening line?" I think to myself as I stare at the cursor blinking on my screen.
 
 Another blank document.
