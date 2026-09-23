@@ -29,6 +29,6 @@ I have managed the Seda Real Estate Group website since June of 2025. I complete
 ## Roberto Seda Campaign
 ### [Visit site ->](https://www.sedaforok.com)
 Similar to the Seda Real Estate Group website, I created this from scratch with raw HTML, CSS, and Javascript.
-It uses partials and a custom made node based build script to assemble the distribution html files.
+It uses partials and a custom made node based build script to assemble the distribution HTML files.
 I continue to manage hosting and provide occassional updates.
 
