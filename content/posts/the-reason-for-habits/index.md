@@ -81,7 +81,7 @@ You read it so that your mind adopts the patterns in Scripture.
 
 Like the path of a single raindrop becoming a river, daily exposure to God's word trains our thoughts to follow the same path as His.
 Like picking up a pattern of speech from someone we are around often, daily exposure to God's word trains our speech to sound like His.
-Like learning to driving a car, daily exposure to God's word trains our hands to act like His.
+Like learning to drive a car, daily exposure to God's word trains our hands to act like His.
 
 And after a while of these seemingly small habits, we look around us and see the massive change that has resulted.
 
