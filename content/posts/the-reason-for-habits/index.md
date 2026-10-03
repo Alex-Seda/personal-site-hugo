@@ -22,7 +22,7 @@ Erikson categorizes people into four different personality groups, describes eac
 The point of the book is that an ignorance of the differences in others' personalities can lead you to think less of them, when in reality, they have many strengths that you do not have.
 Erikson's goal in writing this book is to enlighten his readers on personality types so that they can apply this to their working relationships to become better coworkers and increase group effectiveness.
 
-Obviously, after reading that book, it would be on your mind the next day, or week, or however long, before becoming something you only think about ocassionally.
+Obviously, after reading that book, it would be on your mind the next day, or week, or however long, before becoming something you only think about occasionally.
 You could, of course, make reminders for yourself and, through intentionality, keep it at the forefront of your mind indefinitely, but you would need to continually make that the primary thought on your mind.
 
 What would happen, then, if you switched to reading Scripture, which offered a different, non-contradictory way to view those same relationships?
@@ -52,7 +52,7 @@ The exams felt easier because you actually knew the content; you weren't just re
 
 For one last example, consider learning to drive.
 At the beginning, there were many moving pieces and the operations felt unnatural.
-Watch the spedometer.
+Watch the speedometer.
 Remember which pedal is the brake.
 Which way do I push the turn signal to go right?
 Is there someone in the lane next to me?
@@ -63,16 +63,16 @@ Imagine if you still had to manually think about each of those every time you dr
 Daily commutes would feel mentally taxing.
 Trying to navigate downtown in a place you have never been would be next to impossible.
 
-Thankfully, through repitition, our brain has made many parts of driving automatic.
-When we are driving to work, we are often subconciously spacing ourself behind the car in front of us, not having to think about which pedal is which.
+Thankfully, through repetition, our brain has made many parts of driving automatic.
+When we are driving to work, we are often subconsciously spacing ourselves behind the car in front of us, not having to think about which pedal is which.
 We just have to know to turn right, and our muscle memory knows exactly how much to slow the car down and when, and it also likely flips the turn signal.
 
-All of these actions are necessary to driving, but they are so engrained that they do not have to be the center of our attention.
+All of these actions are necessary to driving, but they are so ingrained that they do not have to be the center of our attention.
 
-## Repitition
+## Repetition
 By now, you can probably guess where I am going with this: the habits we choose intentionally allow us to control what becomes automatic.
 
-Driving only became automatic because of repitition.
+Driving only became automatic because of repetition.
 Similarly, applying the concepts we learn from books and Scripture comes through repeated exposure to the material and repeated application.
 
 This is why small daily habits are so effective.
@@ -99,7 +99,7 @@ As God abides in us and we in Him, He teaches us how to be like Him.
 He equips us for His will (2 Tim. 3:16, Heb. 13:20-21) through our experiences and teaches us through our circumstances.
 We slowly learn who He is and who He wants us to be.
 
-He has invited us on an incredibly journey, and He has already has all the details planned.
+He has invited us on an incredible journey, and He already has all the details planned.
 How incredible is it that, out of all the ways for God to choose for us to grow as people, He chose a daily relationship?
 To be with us daily, and to one day be with us in Heaven forever.
 Not rushed, but a walk.

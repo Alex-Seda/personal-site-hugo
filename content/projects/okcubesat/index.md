@@ -10,7 +10,7 @@ For my Senior Design project, I was fortunate to work with six other engineers t
 
 The OKCubeSat initiative is an ongoing Oklahoma State University program to develop and propose a CubeSat design to NASA. Our mission is to verify NASA's Low Earth Orbit (LEO) debris models, which would allow them to proceed to mitigation and removal planning.
 
-Tyler Clayton and I were responsible for sorting through provided documentation, code, and datasheets, and we were tasks with beginning the development process for the flight software to be used on board.
+Tyler Clayton and I were responsible for sorting through provided documentation, code, and datasheets, and we were tasked with beginning the development process for the flight software to be used on board.
 
 Our scope ended up being system design, comprehensive documentation, and command loop simulation:
 - Our system design required us to understand the logic flow of Real Time Operating Systems (RTOSes) and satellite flight software. Our deliverables primarily consisted of various UML diagrams and numerical justification for decisions made.
