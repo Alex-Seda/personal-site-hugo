@@ -11,7 +11,6 @@ I have independently designed and developed several websites, and I continue to 
 
 ## The Senior Living Truth Series
 ### [Visit site ->](https://theseniorlivingtruthseries.com)
-### [View repository ->](https://github.com/Alex-Seda/slts-django)
 The Senior Living Truth Series is a free seminar series in Oklahoma City that provides seniors with clear, honest information so they can navigate some of later-life's biggest decisions.
 
 This website was a large project I took on beginning in 2026. The site is a **full Customer Relationship Management (CRM)** application, including event information and registration logic. There is an admin dashboard that allows team members to access and update information regarding the seminar series and other offered events, as well as managing registrations. This site was designed with the Django Python framework.
